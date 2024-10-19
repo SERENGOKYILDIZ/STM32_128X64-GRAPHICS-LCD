@@ -3,9 +3,9 @@ A project that provides writing with a 128x64 Graphic LCD using STM32
 
 - ***Link headers***
   - [NOTE](#note)<br/>
-  - [Main Code](#code-"main.c")<br/>
-  - [Delay Code](#code-"delay.c")<br/>
-  - [ST7920 Code](#code-"ST7920_SERIAL.c")<br/>
+  - [Main Code](#code-mainc)<br/>
+  - [Delay Code](#code-delayc)<br/>
+  - [ST7920 Code](#code-st7920_serialc)<br/>
 
 ## NOTE
 > [!NOTE]
